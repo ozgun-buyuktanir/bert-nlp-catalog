@@ -1,0 +1,1 @@
+This repo consist of BERT Turkish models. Aiming for comparing models performance.
